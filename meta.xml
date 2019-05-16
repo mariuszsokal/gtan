@@ -1,0 +1,10 @@
+<meta>
+	<info name="Role Play" author="RootKiller" version="1.0" type="gamemode" />
+
+	<script src="Core.dll" type="server" lang="compiled" />
+
+	<script src="Client/UI.js" type="client" lang="javascript" />
+	<script src="Client/Core.js" type="client" lang="javascript" />
+
+	<file src="Client/UI/login.html" />
+</meta>
